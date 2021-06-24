@@ -7,6 +7,7 @@ could within the time frame.
 ![cap2](https://user-images.githubusercontent.com/74997705/123329654-e6d72b80-d4f1-11eb-95a5-7147cab06bdf.PNG)
 
 # For the Rental Request Form
+[Link to Rental Request Form](https://github.com/cindy123jl/Theatre_C_Sharp_Project/tree/main/TheatreCMS3/TheatreCMS3/TheatreCMS3/Areas/Rent/Models)
 While creating this, I was able to really develop a deeper understanding of the .NET Framework and the MVC pattern. Some subtle changes I made 
 to the styling is the submit buttons where they were not visable with the default changes in creating the MVC pattern, I made them into easy to see buttons.
 
