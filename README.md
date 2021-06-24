@@ -1,4 +1,5 @@
 # LiveProjectReadme
+[Link to Theatre project](https://github.com/cindy123jl/Theatre_C_Sharp_Project)
 
 I was a part of a two week long live project where we had sprint meetings Monday-Friday.
 In this team project I created a Donations page for the Theatres Website and I also created the MVC for the Rental Request form.
