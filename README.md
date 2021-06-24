@@ -11,7 +11,7 @@ could within the time frame.
 
 # For the Rental Request Form
 [Link to Rental Request Form](https://github.com/cindy123jl/Theatre_C_Sharp_Project/tree/main/TheatreCMS3/TheatreCMS3/TheatreCMS3/Areas/Rent/Models)
-While creating this, I was able to really develop a deeper understanding of the .NET Framework and the MVC pattern. Some subtle changes I made 
+While creating this, I was able to really develop a deeper understanding of the .NET Framework and the MVC pattern. After scaffolding I made some subtle changes  
 to the styling is the submit buttons where they were not visable with the default changes in creating the MVC pattern, I made them into easy to see buttons.
 
 ![cap1](https://user-images.githubusercontent.com/74997705/123329644-e343a480-d4f1-11eb-9ce3-a1fa683a97e1.PNG)
